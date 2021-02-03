@@ -1,4 +1,4 @@
-![Invoker](https://invoker.dev/assets/card.png)
+![Invoker](https://invoker.dev/images/invoker-card.png)
 
 # Invoker Community
 
