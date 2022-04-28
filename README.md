@@ -1,5 +1,5 @@
 ![Invoker](https://invoker.dev/images/invoker-card.png)
 
-# Invoker Community
+# Invoker – Developer tool for Laravel
 
-This repository acts as a community forum for [Invoker](https://invoker.dev) questions, feature ideas, and bug reports. To start a thread, please open an [issue](https://github.com/beyondcode/invoker-community/issues).
+Please contact us via the support email address at [Invoker](https://invoker.dev).
